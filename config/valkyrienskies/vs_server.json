@@ -17,6 +17,5 @@
   "aiOnShips" : true,
   "miniShipSize" : 0.5,
   "minScaling" : 0.25,
-  "vsCommandPerms" : 2,
   "$schema" : "schemas/vs_server.schema.json"
 }

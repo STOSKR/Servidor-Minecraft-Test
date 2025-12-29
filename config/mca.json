@@ -142,7 +142,7 @@
     "minecraft:grass_block",
     "minecraft:dirt"
   ],
-  "launchIntoDestiny": true,
+  "launchIntoDestiny": false,
   "allowDestinyCommandOnce": true,
   "allowDestinyCommandMoreThanOnce": false,
   "allowDestinyTeleportation": true,
@@ -214,11 +214,11 @@
     "minecraft:village_snowy",
     "minecraft:village_plains",
     "minecraft:village_savanna",
-    "minecraft:ancient_city"
+    null
   ],
   "destinyLocationsToTranslationMap": {
-    "default": "destiny.story.travelling",
-    "minecraft:shipwreck_beached": "destiny.story.sailing"
+    "minecraft:shipwreck_beached": "destiny.story.sailing",
+    "default": "destiny.story.travelling"
   },
   "professionConversionsMap": {},
   "shaderLocationsMap": {
@@ -226,9 +226,9 @@
     "sirben": "mca:shaders/post/sirben.json"
   },
   "playerRendererBlacklist": {
-    "firstpersonmod": "arms",
-    "epicfight": "all",
     "morph": "arms",
+    "epicfight": "all",
+    "firstpersonmod": "arms",
     "firstperson": "arms"
   },
   "enabledTraits": {

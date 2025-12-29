@@ -1,0 +1,17 @@
+{
+	id: "db72b527-c21e-3739-acc7-ac518dffe790"
+	type: "player"
+	player_name: "PatoCrrrack88"
+	ranks: {
+		db72b527-c21e-3739-acc7-ac518dffe790: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PatoCrrrack88"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5980"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
