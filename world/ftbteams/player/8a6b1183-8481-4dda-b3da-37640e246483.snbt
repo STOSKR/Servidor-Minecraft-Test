@@ -1,0 +1,15 @@
+{
+	id: "8a6b1183-8481-4dda-b3da-37640e246483"
+	type: "player"
+	player_name: "PatoCrrrack88"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "PatoCrrrack88"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

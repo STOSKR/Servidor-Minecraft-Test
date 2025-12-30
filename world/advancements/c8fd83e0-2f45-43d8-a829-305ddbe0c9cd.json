@@ -1,0 +1,2167 @@
+{
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-12-30 12:43:34 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/pine_crafting_table": {
+    "criteria": {
+      "has_pine_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-12-30 12:43:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_perfect_guard": {
+    "criteria": {
+      "basic_operations_perfect_guard_0": "2025-12-30 13:20:18 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_advancements": {
+    "criteria": {
+      "battle_advancements_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-12-30 12:43:29 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_basic_operations": {
+    "criteria": {
+      "mine_piece_basic_operations_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-12-30 12:51:44 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_alvida": {
+    "criteria": {
+      "battle_alvida_0": "2025-12-30 13:26:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_new_world": {
+    "criteria": {
+      "battle_new_world_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-12-30 12:51:35 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-12-30 12:41:18 +0100",
+      "has_fillet_knife": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_haki_skills": {
+    "criteria": {
+      "mine_piece_haki_skills_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_change_technique": {
+    "criteria": {
+      "basic_operations_change_technique_0": "2025-12-30 12:52:02 +0100"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/copper_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2025-12-30 12:41:18 +0100",
+      "has_fillet_knife": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/driftwood_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-12-30 13:27:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-12-30 12:54:05 +0100"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-12-30 12:45:09 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-12-30 12:53:36 +0100"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-12-30 13:02:33 +0100",
+      "opened_chest": "2025-12-30 12:45:03 +0100"
+    },
+    "done": false
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-12-30 12:59:09 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-12-30 13:10:02 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-12-30 12:41:18 +0100",
+      "has_black_balloon": "2025-12-30 12:41:18 +0100",
+      "has_lime_balloon": "2025-12-30 12:41:18 +0100",
+      "has_cyan_balloon": "2025-12-30 12:41:18 +0100",
+      "has_light_blue_balloon": "2025-12-30 12:41:18 +0100",
+      "has_gray_balloon": "2025-12-30 12:41:18 +0100",
+      "has_pink_balloon": "2025-12-30 12:41:18 +0100",
+      "has_light_gray_balloon": "2025-12-30 12:41:18 +0100",
+      "has_white_balloon": "2025-12-30 12:41:18 +0100",
+      "has_blue_balloon": "2025-12-30 12:41:18 +0100",
+      "has_yellow_balloon": "2025-12-30 12:41:18 +0100",
+      "has_purple_balloon": "2025-12-30 12:41:18 +0100",
+      "has_orange_balloon": "2025-12-30 12:41:18 +0100",
+      "has_brown_balloon": "2025-12-30 12:41:18 +0100",
+      "has_green_balloon": "2025-12-30 12:41:18 +0100",
+      "has_magenta_balloon": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/lattice": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_west_blue": {
+    "criteria": {
+      "battle_west_blue_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-12-30 13:27:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-12-30 12:57:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/chain": {
+    "criteria": {
+      "has_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-12-30 13:06:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2025-12-30 12:41:18 +0100",
+      "has_axe": "2025-12-30 12:41:18 +0100",
+      "has_helmet": "2025-12-30 12:41:18 +0100",
+      "has_fishing_rod": "2025-12-30 12:41:18 +0100",
+      "has_bow": "2025-12-30 12:41:18 +0100",
+      "has_chestplate": "2025-12-30 12:41:18 +0100",
+      "has_sword": "2025-12-30 12:41:18 +0100",
+      "has_fillet_knife": "2025-12-30 12:41:18 +0100",
+      "has_shovel": "2025-12-30 12:41:18 +0100",
+      "has_hoe": "2025-12-30 12:41:18 +0100",
+      "has_boots": "2025-12-30 12:41:18 +0100",
+      "has_pickaxe": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-12-30 13:02:33 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-12-30 12:45:09 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-30 12:51:44 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-12-30 13:28:41 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-12-30 13:27:14 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-12-30 13:07:41 +0100"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-30 12:43:34 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_reverse_mountain": {
+    "criteria": {
+      "battle_reverse_mountain_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-12-30 12:44:45 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-12-30 12:57:12 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:araucaria_savanna": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-12-30 13:27:14 +0100"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_guard": {
+    "criteria": {
+      "basic_operations_guard_0": "2025-12-30 13:20:18 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-12-30 13:10:02 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-12-30 12:59:09 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2025-12-30 12:41:18 +0100",
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minepiece:update": {
+    "criteria": {
+      "update_0": "2025-12-30 13:25:00 +0100"
+    },
+    "done": true
+  },
+  "skyarena:root": {
+    "criteria": {
+      "always": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-12-30 13:27:14 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-12-30 12:45:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-12-30 12:57:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_charactor_skills": {
+    "criteria": {
+      "mine_piece_charactor_skills_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_skypiea": {
+    "criteria": {
+      "battle_skypiea_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-30 12:45:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2025-12-30 12:50:26 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_use_technique": {
+    "criteria": {
+      "basic_operations_use_technique_0": "2025-12-30 12:53:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-12-30 12:57:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pine_bookshelf": {
+    "criteria": {
+      "has_pine_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 12:59:09 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-12-30 13:11:38 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_red_line": {
+    "criteria": {
+      "battle_red_line_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-12-30 12:57:44 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:araucaria_savanna": "2025-12-30 12:41:19 +0100",
+      "biomeswevegone:firecracker_chaparral": "2025-12-30 12:51:50 +0100",
+      "biomeswevegone:lush_stacks": "2025-12-30 13:17:25 +0100",
+      "biomeswevegone:ironwood_gour": "2025-12-30 12:42:48 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-12-30 12:50:14 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-12-30 12:59:09 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_north_blue": {
+    "criteria": {
+      "battle_north_blue_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 12:59:09 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-30 12:51:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_east_blue": {
+    "criteria": {
+      "battle_east_blue_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "minepiece:basic_operations_select_skill": {
+    "criteria": {
+      "basic_operations_select_skill_0": "2025-12-30 12:49:47 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minepiece:start_mine_piece": {
+    "criteria": {
+      "start_mine_piece_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-12-30 12:41:18 +0100",
+      "has_fillet_knife": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-12-30 12:51:44 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_south_blue": {
+    "criteria": {
+      "battle_south_blue_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-12-30 12:59:57 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-12-30 12:41:18 +0100",
+      "inv_changed-diamond": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/transportation/river_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_the_recipe": "2025-12-30 12:57:29 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "minepiece:mine_piece_skills": {
+    "criteria": {
+      "mine_piece_skills_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-12-30 12:54:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-12-30 13:10:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-12-30 13:14:48 +0100",
+      "minecraft:lukewarm_ocean": "2025-12-30 12:59:43 +0100",
+      "minecraft:river": "2025-12-30 12:56:01 +0100",
+      "minecraft:deep_lukewarm_ocean": "2025-12-30 13:08:27 +0100"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-12-30 12:51:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-12-30 12:53:36 +0100"
+    },
+    "done": true
+  },
+  "minepiece:battle_grand_line": {
+    "criteria": {
+      "battle_grand_line_0": "2025-12-30 12:41:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-12-30 12:54:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-12-30 12:57:22 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-12-30 12:57:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-12-30 13:23:09 +0100",
+      "bread": "2025-12-30 13:19:58 +0100"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-12-30 12:51:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-12-30 12:51:44 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2025-12-30 12:41:18 +0100",
+      "has_fillet_knife": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
+    "criteria": {
+      "has_log": "2025-12-30 12:57:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-12-30 13:28:41 +0100"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_planks": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-12-30 12:45:08 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-30 13:03:30 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-12-30 12:57:44 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-12-30 12:57:12 +0100"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-12-30 13:28:22 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-12-30 12:57:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-30 12:53:27 +0100"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2025-12-30 12:41:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-12-30 12:55:43 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

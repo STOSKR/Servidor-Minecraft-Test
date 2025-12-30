@@ -1,0 +1,15 @@
+{
+	id: "dce2abac-20bf-490e-99dd-6a48ef4ba436"
+	type: "player"
+	player_name: "STOSKR"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "STOSKR"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DBFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

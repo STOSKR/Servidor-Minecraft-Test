@@ -1,0 +1,15 @@
+{
+	id: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd"
+	type: "player"
+	player_name: "kililoti"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "kililoti"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

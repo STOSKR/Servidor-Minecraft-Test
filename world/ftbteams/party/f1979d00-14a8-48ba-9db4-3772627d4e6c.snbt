@@ -1,0 +1,29 @@
+{
+	id: "f1979d00-14a8-48ba-9db4-3772627d4e6c"
+	type: "party"
+	owner: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd"
+	ranks: {
+		dce2abac-20bf-490e-99dd-6a48ef4ba436: "officer"
+		c8fd83e0-2f45-43d8-a829-305ddbe0c9cd: "owner"
+		8a6b1183-8481-4dda-b3da-37640e246483: "officer"
+	}
+	properties: {
+		"ftbteams:display_name": "Sockets"
+		"ftbteams:description": "Barcos"
+		"ftbteams:color": "#FF59F4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767095295358L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"kililoti\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095305314L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"STOSKR\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095305314L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PatoCrrrack88\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767095309651L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PatoCrrrack88\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095325900L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"STOSKR\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095353007L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"STOSKR\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767095357953L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"STOSKR\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095365802L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"STOSKR\"}]}" }
+		{ from: "c8fd83e0-2f45-43d8-a829-305ddbe0c9cd", date: 1767095369798L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"PatoCrrrack88\"}]}" }
+	]
+	extra: { }
+}
